@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "listas": []
+  "listas": [],
+  "plataformas": [
+    {
+      "id": "cinear",
+      "nombre": "CINE.AR PLAY",
+      "url": "https://play.cine.ar/",
+      "activa": true,
+      "tipo": "web"
+    }
+  ]
 }
